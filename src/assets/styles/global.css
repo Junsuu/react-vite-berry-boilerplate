@@ -1,0 +1,16 @@
+:root {
+  /* --white-color: #ffffff;
+  --gray-scale1-color: #f7f8f9;
+  --gray-scale2-color: #e9ebee;
+  --gray-scale3-color: #c5c8ce;
+  --gray-scale4-color: #646f7c;
+  --gray-scale5-color: #374553;
+  --gray-scale6-color: #28323c;
+  --dim-color: rgba(0, 0, 0, 0.3); */
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+}
