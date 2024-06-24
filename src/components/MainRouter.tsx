@@ -1,5 +1,6 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React, { Suspense, lazy } from "react";
+
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 const routeList = [{ name: "SampleView", path: "/", component: lazy(() => import("@/pages/SamplePages")) }];
 
